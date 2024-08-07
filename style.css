@@ -12,6 +12,7 @@
 }
 
 .question2 {
+    width: 90%;
     display: flex;
     flex-direction: column;
     background-color: rgb(255, 231, 11);
